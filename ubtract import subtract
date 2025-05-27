@@ -1,0 +1,35 @@
+[33mcommit c6e0e83dbc6d85b0ddb1027adafddd918c208dd7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 13:08:53 2025 +0900
+
+    메인 계산기 추가
+
+[33mcommit 2b59d497018b926884d18132c9e48e839224444a[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 13:08:28 2025 +0900
+
+    나눗셈 기능 추가
+
+[33mcommit 2a8f4484a64cb87fa7ff4b81015d115df2623d42[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 13:08:07 2025 +0900
+
+    곱셈 기능 추가
+
+[33mcommit a1a9cb7caae1c9389c67ccd7a03aae550035b228[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 13:07:30 2025 +0900
+
+    뺄셈셈 기능 추가
+
+[33mcommit 0a56db1f5334400f9b3dcca37bd78613a5501de7[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 13:06:21 2025 +0900
+
+    덧셈 기능 추가
+
+[33mcommit 88ec418cb371a89ea4a1c61d35fafc818a14f547[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: kimdoyeon817 <danny817@naver.com>
+Date:   Tue May 27 11:19:50 2025 +0900
+
+    첫번 째 git commit test
